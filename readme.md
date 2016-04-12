@@ -1,7 +1,7 @@
 <h2>Simple JS lib for various string operations</h2>
 
 <p>
-	<a href="http://www.ivansivak.net/blog/linkedlist-in-javascript-insertion-performance">Blog page</a>
+	<a href="http://www.ivansivak.net/">Blog page</a>
 </p>
 
 <p>
